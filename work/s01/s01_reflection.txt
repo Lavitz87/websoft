@@ -1,0 +1,14 @@
+1. Before this session I knew somethings about git, github, nothing about markdown or github pages
+
+2. I have pushed pulled commit to and from git, mostly by using built in functions from IDE's, we have used Intellij
+
+3. I have had a course in high school where we did some html coding. Nothing with javascript or other coding.
+
+4. As stated above, I've had some experience writing html, but that was over 15 years ago, so my knowledge is not up to date and
+I cant really remember the syntax.
+
+5. For this course section I would like to learn the basics of html syntax, and how to create webpages. Which I think so far it
+has giving me some insight, but I wish it would go a bit deeper, hopefully it will cover some more during the upcoming sections.
+
+I am really looking forward to this course, because we will dabble a bit in many different programming languages, and try to do
+many things. For me who don't really know what I want to do when I finish this program.  

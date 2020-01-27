@@ -11,19 +11,38 @@ html {
 
 }
 
+header {
+
+  position: fixed;
+  background: #335C7D;
+  color #fff:
+
+}
+
+
 body {
 
     margin: 8px auto;
+    padding: 12px;
     background: #fff;
     width: 700px;
 }
 
+
+
 .site-header{
+
   width: 100%;
-  background-color: pink;
+  color: #f1f1f1;
   font-size: 24px;
   text-align: center;
+
 }
+
+.alwaysOnTop{
+  position: sticky;
+}
+
 
 .site-footer{
   width: 100%;
@@ -34,6 +53,16 @@ body {
 
 .main {
   margin: auto;
+}
+
+.meHeaderCenter{
+  text-align: center;
+}
+
+.imgcenter {
+
+  text-align: center;
+
 }
 
 

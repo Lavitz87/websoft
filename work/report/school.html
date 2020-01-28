@@ -1,43 +1,51 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <title>List of schools</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="favicon.ico">
+  <meta charset="utf-8">
+  <title>List of schools</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="favicon.ico">
 </head>
 
 <body>
 
-<!--
-Comments are written as HTML style.
+  <!--
+  Comments are written as HTML style.
 -->
-
+<div class="sticky">
 <header>
+  <h1>
     <nav class="site-header">
-        <a href="me.html">Me</a> |
-        <a href="report.html">Report</a> |
-        <a href="about.html">About</a> |
-        <a href="school.html">School</a>
+      <a href="me.html" class="hvr-grow">Me</a> |
+      <a href="report.html" class="hvr-grow">Report</a> |
+      <a href="about.html" class="hvr-grow">About</a> |
+      <a href="school.html" class="hvr-grow">School</a>
     </nav>
+  </h1>
 </header>
+</div>
 
 
-
-<h1>List of schools</h1>
+<h1 class="HeaderCenter">List of schools</h1>
 
 <div id="content">
-        <p>Lets fetch and display some data. You need to run this web page using a web server, you can not use
-          <code>file:///</code>.</p>
-    </div>
+  <p>Lets fetch and display some data. You need to run this web page using a web server, you can not use
+    <code>file:///</code>.</p>
+  </div>
 
 
-<footer class="site-footer">
-    <hr>
-    <p>Provide a nice footer to to this page.</p>
-</footer>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+  <footer class="site-footer">
+    <div class="rounded-social-buttons">
+                      <a class="social-button facebook" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                      <a class="social-button twitter" href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
+                      <a class="social-button linkedin" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                      <a class="social-button youtube" href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
+                      <a class="social-button instagram" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+                  </div>
+  </footer>
 
 
-<script type="text/javascript" src="js/school.js"></script>
+  <script type="text/javascript" src="js/school.js"></script>
 </body>
 </html>

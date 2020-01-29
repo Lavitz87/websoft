@@ -89,6 +89,12 @@ footer{
 
 }
 
+#fetchButton{
+
+align-content: center center;
+
+}
+
 #content {
     border: 1px solid black;
     background-color: #fefeee;

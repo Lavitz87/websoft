@@ -105,16 +105,22 @@ footer{
     border-radius: 30px;
 }
 
-/*.duck {
-  width: 128px;
-  height: 128px;
-  border: 1px solid black;
-  background-image:
-  background-size: 128px;
-  position: absolute;
-  top: 20px;
+#duck {
+    width: 64px;
+    height: 64px;
 
-}*/
+    background-image: url(../../img/snowman.png);
+    background-size: 64px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+
+#mydiv {
+  position: absolute;
+  z-index: 10000;
+}
 
 /*
 Footer animation for social media icons
@@ -241,3 +247,19 @@ textarea {
 .hvr-grow:active {
     transform: scale(1.1);
 }
+
+
+th, td, p, input {
+            font:14px Verdana;
+        }
+        table, th, td
+        {
+            border: solid 1px #DDD;
+            border-collapse: collapse;
+            padding: 2px 3px;
+            text-align: center;
+        }
+        th {
+            font-weight:bold;
+        }
+      }

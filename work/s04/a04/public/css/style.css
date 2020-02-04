@@ -9,7 +9,7 @@ html {
 body {
     height: 100%;
     margin: 0;
-    background-image: url("../../img/berg.jpg");
+    background-image: url("../img/berg.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -22,7 +22,7 @@ header {
   margin: 0;
   background-color: #fff;
   border: 2px solid black;
-  background-image: url("../../img/bergkedja.jpg");
+  background-image: url("../img/bergkedja.jpg");
   background-repeat: no-repeat;
   background-size: 1940px 190px;
   background-attachment: fixed;
@@ -125,7 +125,7 @@ footer{
     width: 64px;
     height: 64px;
 
-    background-image: url(../../img/snowman.png);
+    background-image: url(../img/snowman.png);
     background-size: 64px;
     position: absolute;
     top: 10px;

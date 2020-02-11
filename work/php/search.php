@@ -70,10 +70,11 @@
                     </label>
                 </p>
             </form>
-        
+
             <?php if ($search) : ?>
                 <table>
                     <tr>
+                        <th>Id</th>
                         <th>Label</th>
                         <th>Type</th>
                     </tr>

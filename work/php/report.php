@@ -120,51 +120,77 @@
             <section>
               <h2>S04</h2>
               <p><b>Question 1:</b> Tell me about your previous experience on node/npm or any equal programming tools.</p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> I have no prior knowledge with either JavaScript, Node or npm.
+                                There where some similarities with Java and JavaScript. 
+                                I dont know any programming tool equal to either npm or node.
+                                 </p>
 
               <p><b>Question 2:</b> How do you feel about working with JavaScript, Node and Express?</p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> I feel like JavaScript is more for me, because i would like to do more front-end stuff.
+                                I feel that Node.js is good to know beacuse it is popular in the workplace.
+                                Same with express, seems to be popular so itas good to know.
+                                However i feel that i would prefer JavaScript then the other languages.  </p>
 
               <p><b>Question 3:</b> Explain how you did take on the coding assignment, did you have a plan and did it work?</p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> I had no particular plan for this assignment, more than doing it.
+                                I thought it would be interesting learning about the different frameworks and the program runs as intended</p>
 
               <p><b>Question 4:</b> What grade did you aim for and was it a difficult level?</p>
-              <p><b>Answer: </b></p>
+              <p><b>Answer: </b>I didn't aim for a perticular grade, i did what i had time for before the next task started.
+                                But i aimed to pass the assignment atleast.
+                                From what i have heard the task 4 and 5 was challenging.</p>
 
               <p><b>Question 5:</b> What is your TIL for this course section?</p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> I learned a bit about JavaScript, and that i want to learn more about it.
+                                I don't have that much interest in backend, so i felt less interessted in Node and Express. 
+                                But as mentioned earlier that Node and Express is popular in the workplace, that it was worth learning something about it.</p>
 
             </section>
 
             <section>
               <h2>S05</h2>
-              <p><b>Question 1:</b> </p>
-              <p><b>Answer:</b> </p>
+              <p><b>Question 1:</b> How do you feel about PHP as a programming language? </p>
+              <p><b>Answer:</b> I like they way you can split the HTML code and PHP.
+                                And how easy it is to reuse the for example header and footer.
+                                I've heard that PHP is not the most popular language right now. 
+                                But i feel its still good to go through the basics.</p>
 
-              <p><b>Question 2:</b> </p>
-              <p><b>Answer:</b> </p>
+              <p><b>Question 2:</b> Can you compare PHP to other languages you know? </p>
+              <p><b>Answer:</b> I cannot compare PHP to any other language i have learned so far.
+                                Some parts i can compare with fundamental programming languages like creating variables and such.
+                                A bit different way of using 'for each' and other way of writing code, but not that much similar to Java.</p>
 
-              <p><b>Question 3:</b> </p>
-              <p><b>Answer:</b> </p>
+              <p><b>Question 3:</b> Describe how you took on the coding exercise, what grade did you aim for and are you satisfied with the result? </p>
+              <p><b>Answer:</b> I did not really have a plan for the assignment, I just followed the instructions.
+                                Of course i aimed for at least a 3, but i did what i had time for.
+                                If i have more time i will try and improve this assignment for a higher grade.
+                                A lot of my time was spent on thesis work. </p>
 
-              <p><b>Question 4:</b> </p>
-              <p><b>Answer:</b> </p>
+              <p><b>Question 4:</b> What is your TIL for this course section?</p>
+              <p><b>Answer:</b> I learned some "vanilla" PHP, and that was good to know.
+                                Would like to learn some more, and i would really like to know what is the todays standard.
+                                For instance for me i have only my header part in header.php, not the head part.
+                                I really would like to know if what i have done is within todays practice or not. </p>
 
             </section>
 
             <section>
               <h2>S06</h2>
-              <p><b>Question 1:</b> </p>
+              <p><b>Question 1:</b> What is your own opinion on popularity of programming languages and what are your thoughts of future popularity among programming languages? </p>
               <p><b>Answer:</b> </p>
 
-              <p><b>Question 2:</b> </p>
+              <p><b>Question 2:</b> What will be your own choice for selecting future programming languages? </p>
               <p><b>Answer:</b> </p>
 
-              <p><b>Question 3:</b> </p>
+              <p><b>Question 3:</b> Do your own investigation on https://trends.google.com (Links to an external site.) to customize your own comparison on programming languages (or frameworks) and elaborate on the results.</p>
               <p><b>Answer:</b> </p>
 
-              <p><b>Question 4:</b> </p>
+              <p><b>Question 4:</b> If you were to recommend a language/framework/technology to your potential employer and your next large project, what would it be and how would you “sell it”? </p>
               <p><b>Answer:</b> </p>
+
+              <p><b>Question 5:</b> What is your TIL for this course section? </p>
+              <p><b>Answer:</b> </p>
+
 
             </section>
 

@@ -34,31 +34,31 @@
             <section>
               <h2>S01</h2>
               <p><b>Question 1:</b> Did you before know about the techniques Git, GitHub, Markdown and/or GitHub Pages?
-                <p><b>Answer:</b> Before this session I knew somethings about git, github, nothing about markdown or github pages.
+              <p><b>Answer:</b> Before this session I knew somethings about git, github, nothing about markdown or github pages.
                   I am not so experienced when it comes to major problems with merges, or how to solve these issues with reverting to previous versions.
                   Hopefully this will not be a problem during this course.
                   I have pushed pulled commit to and from git, mostly by using built in functions from IDE's, we have used Intellij.
                   I like that this course forces the students to use git all through out the course and all the different sections.
 
-                  <p><b>Question 2:</b> Have you ever created websites before?
-                    <p><b>Answer:</b> I have never published a website or done one as work, but i did study web in highschool, where we learned how to create HTML websites.
+              <p><b>Question 2:</b> Have you ever created websites before?
+              <p><b>Answer:</b> I have never published a website or done one as work, but i did study web in highschool, where we learned how to create HTML websites.
 
-                      <p><b>Question 3:</b> Briefly explain your experience and knowledge of web application development.
-                        <p><b>Answer:</b> I have had a course in high school where we did some html coding. But most of my expereince comes from this program, during the Fundamental programming course I got my first hands on experience of
+              <p><b>Question 3:</b> Briefly explain your experience and knowledge of web application development.
+              <p><b>Answer:</b> I have had a course in high school where we did some html coding. But most of my expereince comes from this program, during the Fundamental programming course I got my first hands on experience of
                           programming.
                           Then we had the Android course which was the first time I have evere tried creating a mobile application.
                           Nothing with JavaScript .NET or any other programming language this course will cover.
 
-                          <p><b>Question 4:</b> What is your TIL for this course section?
-                            <p><b>Answer:</b> As stated above, I've had some experience writing html, but that was over 15 years ago, so my knowledge is not up to date and I cant really remember the syntax.
+              <p><b>Question 4:</b> What is your TIL for this course section?
+              <p><b>Answer:</b> As stated above, I've had some experience writing html, but that was over 15 years ago, so my knowledge is not up to date and I cant really remember the syntax.
 
-                              <p>
+              <p>
                                 For this course section I would like to learn the basics of html syntax, and how to create webpages.
                                 Which I think so far it has giving me some insight.
                                 But I wish it would go a bit deeper, hopefully it will cover some more during the upcoming sections.
                                 I am really looking forward to this course, because we will dabble a bit in many different programming languages, and try to do
                                 many things.
-                                <p>
+               <p>
                                   For me who don't really know what I want to do when I finish this program this is a good opportunity to gain more experience and hopefully find something that I will love to work with in the future.
 
             </section>
@@ -66,26 +66,26 @@
             <section>
               <h2>S02</h2>
               <p><b>Question 1:</b> Have you any previous experience of HTML, CSS and/or JavaScript?
-                <p><b>Answer:</b> I have some knowledge about html, as stated in S01 i did a html course back in highschool but that was over 15 years ago so i dont remember all the syntax and logic.
+              <p><b>Answer:</b> I have some knowledge about html, as stated in S01 i did a html course back in highschool but that was over 15 years ago so i dont remember all the syntax and logic.
                   I have no prior experience in CSS but Im really looking forward to learn the basics and i find it really interessting. I have seen some really cool exapmles of what you can do with CSS and hope i get to learn some cool ways of using
                   CSS.
                   Same with JavaScript i have no prior experience or knowledege but im looking forward to learn more about it.
 
-                  <p><b>Question 2:</b> Explain the role of HTML, CSS and JavaScript in web development.</b>
-                    <p><b>Answer:</b> HTML provides the basic structure of sites, which is enhanced and modified by other technologies such as CSS and JavaScript.
+              <p><b>Question 2:</b> Explain the role of HTML, CSS and JavaScript in web development.</b>
+              <p><b>Answer:</b> HTML provides the basic structure of sites, which is enhanced and modified by other technologies such as CSS and JavaScript.
                       CSS is used to control presentation, formatting and layout.
                       JavaScript is used to control the behavior of different elements.
                       <a href="https://blog.hubspot.com/marketing/web-design-html-css-javascript">Link to resource</a>
 
-                      <p><b>Question 3:</b> Give a brief explanation of how the browser, the HTTP protocol and the web server interacts.
-                        <p><b>Answer:</b>Web browsers and servers communicate using TCP/IP. Hypertext Transfer Protocol is the standard application protocol on top of TCP/IP supporting web browser requests and server responses. Web browsers also rely
+              <p><b>Question 3:</b> Give a brief explanation of how the browser, the HTTP protocol and the web server interacts.
+              <p><b>Answer:</b>Web browsers and servers communicate using TCP/IP. Hypertext Transfer Protocol is the standard application protocol on top of TCP/IP supporting web browser requests and server responses. Web browsers also rely
                           on DNS to work with URLs.
 
-                          <p><b>Question 4:</b> What is your TIL for this course section?
-                            <p><b>Answer:</b> I would like to learn most of the basics when it comes to how to design my website, what tools there are, and how to implement them.
+              <p><b>Question 4:</b> What is your TIL for this course section?
+              <p><b>Answer:</b> I would like to learn most of the basics when it comes to how to design my website, what tools there are, and how to implement them.
                               Especially CSS and Javascript, i am really looking forward to learning about CSS.
                               As stated above, I have seen some examples of what is possible to do with CSS, and it looks so good.
-                              <p>
+              <p>
                                 The same with JavaScript, i would like to learn most of the basics and how to implement these skills or tools in a good way.
                                 Clean coding, how to build my projects so it follows the latest standards. And how to for example run a JavaScript game thorugh a website, or other interacting features which could depend on things like gravity.</p>
             </section>
@@ -177,16 +177,22 @@
             <section>
               <h2>S06</h2>
               <p><b>Question 1:</b> What is your own opinion on popularity of programming languages and what are your thoughts of future popularity among programming languages? </p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> I think it is hard for me to have the 'correct' opinion on what will be popular and what will stay popular.
+                                Beacuse of my limited knowledge of not only the different languages, but also how the market is progressing.
+                                I would trust the more experienced practitioners, but when i have enough experience i can have a better input on the subject. </p>
 
               <p><b>Question 2:</b> What will be your own choice for selecting future programming languages? </p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> As i am more interessted in the front-end part i think one of my choices will be JavaScript.
+                                Or other frameworks of JavaScript, such as React, Vue, TypeScript.
+                                I also think i would have to learn more CSS and SCSS and how to make it work with JavaScript frameworks in a good way. </p>
 
               <p><b>Question 3:</b> Do your own investigation on https://trends.google.com (Links to an external site.) to customize your own comparison on programming languages (or frameworks) and elaborate on the results.</p>
               <p><b>Answer:</b> </p>
 
               <p><b>Question 4:</b> If you were to recommend a language/framework/technology to your potential employer and your next large project, what would it be and how would you “sell it”? </p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> As i am more interessted in front-end i would try to pitch one of the more popular JavaScript frameworks such as React.
+                                And i would 'sell' it by showing its rising popularity and read up on it to show what can be done with this framework and the suggested project.
+                                There must be a reason why its rising in popularity, so it sould not be that hard to find infromation on the subject. </p>
 
               <p><b>Question 5:</b> What is your TIL for this course section? </p>
               <p><b>Answer:</b> </p>

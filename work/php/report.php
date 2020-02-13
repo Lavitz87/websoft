@@ -187,7 +187,10 @@
                                 I also think i would have to learn more CSS and SCSS and how to make it work with JavaScript frameworks in a good way. </p>
 
               <p><b>Question 3:</b> Do your own investigation on https://trends.google.com (Links to an external site.) to customize your own comparison on programming languages (or frameworks) and elaborate on the results.</p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> Did a search comparing React.js and Angular.js <a href="https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F012l1vxv,%2Fm%2F0j45p7w">"Link to source"</a>, and it shows that from 2016 and forward React took over.
+                                At least when it comes to searches, and it looks like that trend is still going, Angular goes down and React goes up.
+                                I also did a search comparison between React.js and Vue.js <a href="https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F012l1vxv,%2Fg%2F11c0vmgx5d">"Link to source"</a>, here you can see that React is still dominant, but Vue is slowly rising in popularity.
+                                So you can assume React is a framework would be good to learn.</p>
 
               <p><b>Question 4:</b> If you were to recommend a language/framework/technology to your potential employer and your next large project, what would it be and how would you “sell it”? </p>
               <p><b>Answer:</b> As i am more interessted in front-end i would try to pitch one of the more popular JavaScript frameworks such as React.
@@ -195,7 +198,8 @@
                                 There must be a reason why its rising in popularity, so it sould not be that hard to find infromation on the subject. </p>
 
               <p><b>Question 5:</b> What is your TIL for this course section? </p>
-              <p><b>Answer:</b> </p>
+              <p><b>Answer:</b> How the trend link works, and that React.js is the rising framwork compare to the others.
+                                Maybe it would be good to follow the trend of Vue and see if it becomes more popular.</p>
 
 
             </section>

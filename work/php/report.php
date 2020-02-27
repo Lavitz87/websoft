@@ -206,16 +206,16 @@
 
             <section>
               <h2>S07</h2>
-              <p><b>Question 1:</b> </p>
+              <p><b>Question 1:</b> Try to explain the platform .NET (C#, ASP.NET) to a skilled programmer, but newbie to this Microsoft technology. </p>
               <p><b>Answer:</b> </p>
 
-              <p><b>Qustion 2:</b> </p>
+              <p><b>Qustion 2:</b> Elaborate by comparing .NET technologies with the other technologies we learned during the course.</p>
               <p><b>Answer:</b> </p>
 
-              <p><b>Question 3:</b> </p>
+              <p><b>Question 3:</b> Describe how you took on the coding exercise, what grade did you aim for and are you satisfied with the result?</p>
               <p><b>Answer:</b> </p>
 
-              <p><b>Question 4:</b> </p>
+              <p><b>Question 4:</b> What is your TIL for this course section?</p>
               <p><b>Answer:</b> </p>
 
 

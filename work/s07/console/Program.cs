@@ -2,8 +2,10 @@
 using System.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using System.Collections.Generic ;
- 
+using System.Collections.Generic;
+using ConsoleTables;
+using System.Linq;
+
 namespace console
 {
     class Program
@@ -21,8 +23,7 @@ namespace console
             
             var accounts = ReadAccounts();
             
-            Console.WriteLine("Choose an option:");
-        
+            Console.WriteLine("Choose an option:");        
             Console.WriteLine("1) Read Accounts");
             Console.WriteLine("2) Read Account by number");
             Console.WriteLine("Write 'exit' to exit");
@@ -32,10 +33,17 @@ namespace console
             {
              
                 case "1":
-                    Console.WriteLine("Show all accounts");
-                    foreach (var account in accounts){
-                        Console.WriteLine(account);
+
+                    var table = new ConsoleTable("Number", "Owner", "Label", "Balance");
+                                    
+                    foreach (var account in accounts)
+                    {
+                        table.AddRow(account.Number, account.Owner, account.Label, account.Balance);
                     }
+                    
+                    table.Write();
+                    Console.WriteLine();
+
                     return true;
                 case "2":
                     Console.Write("Enter Account number: ");
@@ -44,10 +52,15 @@ namespace console
                    {
                        if (account.Number.ToString().Equals(accountNbr))
                        {
-                           Console.WriteLine(account);  
+                           var singleTable = new ConsoleTable("Number", "Owner", "Label", "Balance");
+                           singleTable.AddRow(account.Number, account.Owner, account.Label, account.Balance);
+                           singleTable.Write();
+                           Console.WriteLine();  
+
                        }
-                         
-                   }           
+                      
+                   }
+                   Console.WriteLine("No such account number !");           
                     return true;    
                 case "exit":
                     Console.WriteLine("Goodbye!");
@@ -71,11 +84,8 @@ namespace console
                     data,
                     new JsonSerializerOptions {
                         PropertyNameCaseInsensitive = true
-                    }
-
-            
+                    }     
                 );
-                
                 //Console.WriteLine(json[0]);
                 return json;
             }

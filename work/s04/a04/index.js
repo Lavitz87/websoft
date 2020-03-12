@@ -3,12 +3,14 @@
  */
 "use strict";
 
-const port    = process.env.DBWEBB_PORT || 1337;
-const path    = require("path");
+const port = process.env.DBWEBB_PORT || 1337;
+const path = require("path");
 const express = require("express");
-const app     = express();
+const app = express();
 const routeIndex = require("./route/index.js");
 const middleware = require("./middleware/index.js");
+
+app.set("view engine", "ejs");
 
 app.use(middleware.logIncomingToConsole);
 app.use(express.static(path.join(__dirname, "public")));

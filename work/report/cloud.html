@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+
+    <body>
+
+          
+    <script src="azure-storage.queue.js"></script>
+    <script src="azure-storage.queue.js">
+        // The QueueService object lets you work with queues and messages. Following code creates a QueueService object with storage account and SAS Token.
+        var queueUri = 'https://' + 'johangranberglab2' + '.queue.core.windows.net';
+        var queueService = AzureStorage.Queue.createQueueServiceWithSas(queueUri, '?sv=2019-10-10&ss=bfqt&srt=sco&sp=rwdlacupx&se=2020-05-07T19:51:00Z&st=2020-05-07T11:51:00Z&spr=https&sig=iEGXTPrpoLUMiyMU8o5FngLPzkx73zDW37kUHC%2BlDZE%3D');
+
+
+        //QueueService provides listQueuesSegmented and listQueuesSegmentedWithPrefix for retrieving the queue list under your storage account. 
+        queueService.listQueuesSegmented(null, function (error, results) {
+            if (error) {
+                // List queue error
+            } else {
+                for (var i = 0, queue; queue = results.entries[i]; i++) {
+
+            console.log(queue);
+            // Deal with queue object
+            }
+         }
+     });
+        
+    </script>
+    
+    </body>
+</html>
